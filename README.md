@@ -40,7 +40,9 @@ Tantárgyakat hoz létre és töröl
 Tantárgyakat vesz fel és ad le
 
 Használati eset diagram:
+
 ![Használati eset diagram](images/usecase.PNG)
+
 Egy folyamat pontos menete:
 
 1. Diák bejelentkezik
