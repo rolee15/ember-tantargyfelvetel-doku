@@ -56,12 +56,14 @@ Egy folyamat pontos menete:
 ### Tervezés
 
 1. Architektúra terv
-    1. komponensdiagram
+    1. Komponensdiagram
+        
+        ![Komponensdiagram](images/component.PNG)
+        
     2. Oldaltérkép
         
         ![Oldaltérkép](images/sitemap.PNG)
         
-    3. Végpontok
 2. Felhasználóifelület-modell
     1. Oldalvázlatok
 3. Osztálymodell
