@@ -36,7 +36,7 @@ Szerepkörök:
 
 * Tanár:
 Tantárgyakat hoz létre és töröl
-* Diák
+* Diák:
 Tantárgyakat vesz fel és ad le
 
 Használati eset diagram:
@@ -58,10 +58,12 @@ Egy folyamat pontos menete:
 1. Architektúra terv
     1. komponensdiagram
     2. Oldaltérkép
+        
+        ![Oldaltérkép](images/sitemap.PNG)
+        
     3. Végpontok
 2. Felhasználóifelület-modell
     1. Oldalvázlatok
-    2. Designterv (nem kell, elég a végső megvalósítás kinézete)
 3. Osztálymodell
     1. Adatmodell
     2. Adatbázisterv
