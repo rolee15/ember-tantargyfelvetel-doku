@@ -80,24 +80,33 @@ Egy folyamat pontos menete:
 
 ![Állapotdiagram](images/activity.PNG)
 
-#### 3. Dinamikus működés
-
-1. Szekvenciadiagram
-
-### Implementáció
-
-#### 1. Fejlesztői környezet bemutatása
-
-#### 2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
-
-### Tesztelés
-
-Tesztesetek felsorolása: milyen eseteket próbált végig a hallgató.
-
 ### Felhasználói dokumentáció
 
 #### 1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
 
+Minimum rendszerkövetelmények:
+
+* Windows XP Service Pack 2+, Windows Vista, Windows 7, Windows 8 vagy Windows 10
+* Intel Pentium 4 processzor vagy jobb
+* legalább 512MB RAM
+
+Ajánlott böngészők:
+
+* Internet Explorer 9+
+* Google Chrome - legfrissebb verzió
+* Mozilla Firefox - legfrissebb verzió
+* Apple Safari 5+
+
 #### 2. Telepítés lépései: hogyan kerül a Githubról a célgépre a program
 
+Az alkalmazás a Heroku platformon lesz közzétéve.
+
+1. Regisztrálj a Heroku-n.
+2. A következő lépéseket Cloud9 vagy Git parancssorában kell kiadni: 
+    - heroku create \<alkalmazás neve\> --region eu
+    - git push heroku master
+Az alkalmazás a \<alkalmazás neve\>.herokuapp.com címen érhető el.
+
 #### 3. A program használata
+
+A programot a közzététel után a \<alkalmazás neve\>.herokuapp.com címen lehet elérni.
