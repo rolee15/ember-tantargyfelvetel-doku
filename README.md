@@ -11,7 +11,7 @@ Alapvető követelmény egy webes felület megvalósítása tantárgyak meghirde
 * Autentikáció:
 A felületre felhasználó nélkül ne lehessen belépni. A felület adjon lehetőséget a regisztrációra.
 * Autorizáció:
-A felhasználóknak két csoportját különböztetjük meg: tanár és diák. Tárgyat meghirdetni és törölni csak tanár tud, felvenni és leadni pedig csak diák. A felületnek biztosítania kell, hogy a felhasználó csak a szerepkörébe tartozó funkciókat éri el.
+A felhasználóknak két csoportját különböztetjük meg: tanár és diák. Tárgyat meghirdetni és törölni csak tanár tud, felvenni és leadni pedig csak diák. A felületnek biztosítania kell, hogy a felhasználó csak a szerepkörébe tartozó funkciókat érje el.
 * Tantárgyak meghirdetése:
 Egy tanár meghirdethet egy tárgyat.
 * Tantárgyak törlése:
