@@ -1,0 +1,15 @@
+{{#each messages}}
+<div class="alert alert-dismissible alert-success">
+    <button type="button" class="close" data-dismiss="alert">×</button>
+    {{this}}
+</div>
+{{/each}}
+
+
+<div class="page-header">
+    <h1>Felvett tárgyaim</h1>
+</div>
+
+{{subject-list subjects=model}}
+
+<p>{{link-to "Új tárgy felvétele" "subjects.new" class="btn btn-default"}}</p>

@@ -1,0 +1,25 @@
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th>Kurzuskód</th>
+            <th>Név</th>
+            <th>Típus</th>
+            <th>Kredit</th>
+        </tr>   
+    </thead>
+    <tbody>
+        {{#each subjects}}
+        <tr>
+            <td>{{code}}</td>
+            <td>{{name}}</td>
+            <td>{{type}}</td>
+            <td>{{code}}</td>
+            <td>
+                <!--{{link-to "Megtekint" "subjects.view" this class="btn btn-default btn-sm"}}
+                {{link-to "Szerkeszt" "subjects.edit" this class="btn btn-default btn-sm"}}-->
+                <button {{action "deleteSubject" this}} class="btn btn-default btn-sm">Töröl</button>
+            </td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>

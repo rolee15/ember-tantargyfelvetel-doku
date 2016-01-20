@@ -1,0 +1,34 @@
+<form class="form-horizontal" method="post">
+    <fieldset>
+        <div class="form-group">
+            <label for="code" class="col-lg-2 control-label">Kurzuskód</label>
+            <div class="col-lg-10">
+                <input class="form-control" id="code" name="code" type="text" value="{{data.code}}">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="name" class="col-lg-2 control-label">Név</label>
+            <div class="col-lg-10">
+                <input class="form-control" id="name" name="name" type="text" value="{{data.name}}">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="type" class="col-lg-2 control-label">Típus</label>
+            <div class="col-lg-10">
+                <input class="form-control" id="type" name="type" type="text" value="{{data.type}}">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="credit" class="col-lg-2 control-label">Kredit</label>
+            <div class="col-lg-10">
+                <input class="form-control" id="credit" name="credit" type="text" value="{{data.credit}}">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-10 col-lg-offset-2">
+                <button type="reset" class="btn btn-default">Cancel</button>
+                <button {{action "submit"}} class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </fieldset>
+</form> 
