@@ -1,8 +1,10 @@
-# ember-tantargyfelvetel-doku
+# Tantárgyfelvétel
 
-# Követelményanalízis
+## Dokumentáció
 
-### 1. Funkcionális elvárások
+### Követelményanalízis
+
+#### 1. Funkcionális elvárások
 
 Alapvető követelmény egy webes felület megvalósítása tantárgyak meghirdetésére és felvételére. A felületnek rendelkeznie kell a következő funkciókkal:
 
@@ -23,13 +25,13 @@ Egy diák leadhat egy általa felvett tárgyat.
 * Felvett tárgyak listázása:
 Egy diák lekérdezheti az általa felvett tárgyakat
 
-### 2. Nem funkcionális követelmények
+#### 2. Nem funkcionális követelmények
 
 * Jelenjen meg és működjön ugyanúgy minden elterjedtebb böngészőben
 * Legyen intuitív a felhasználói felület
 * Legyen könnyen kezelhető
 
-### 3. Használatieset-modell
+#### 3. Használatieset-modell
     
 Szerepkörök:
 
@@ -52,9 +54,9 @@ Egy folyamat pontos menete:
 6. Diák kiválasztja a Felvett tárgyaim funkciót
 7. A felület megjeleníti az előbb felvett tantárgyat a listában
 
-# Tervezés
+### Tervezés
 
-### 1. Architektúra terv
+#### 1. Architektúra terv
 
 1. Komponensdiagram
         
@@ -64,11 +66,11 @@ Egy folyamat pontos menete:
         
 ![Oldaltérkép](images/sitemap.PNG)
         
-### 2. Felhasználóifelület-modell
+#### 2. Felhasználóifelület-modell
 
 1. Oldalvázlatok
     
-### 3. Osztálymodell
+#### 3. Osztálymodell
 
 1. Adatmodell
 
@@ -76,24 +78,24 @@ Egy folyamat pontos menete:
 
 3. Állapotdiagram
     
-### 4. Dinamikus működés
+#### 4. Dinamikus működés
 
 1. Szekvenciadiagram
 
 # Implementáció
 
-### 1. Fejlesztői környezet bemutatása
+#### 1. Fejlesztői környezet bemutatása
 
-### 2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
+#### 2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
 
-# Tesztelés
+## Tesztelés
 
 Tesztesetek felsorolása: milyen eseteket próbált végig a hallgató.
 
-# Felhasználói dokumentáció
+## Felhasználói dokumentáció
 
-### 1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
+#### 1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
 
-### 2. Telepítés lépései: hogyan kerül a Githubról a célgépre a program
+#### 2. Telepítés lépései: hogyan kerül a Githubról a célgépre a program
 
-### 3. A program használata
+#### 3. A program használata
