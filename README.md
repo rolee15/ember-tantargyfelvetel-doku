@@ -53,9 +53,9 @@ Egy folyamat pontos menete:
 6. Diák kiválasztja a Felvett tárgyaim funkciót
 7. A felület megjeleníti az előbb felvett tantárgyat a listában
 
-### Tervezés
+# Tervezés
 
-1. Architektúra terv
+### 1. Architektúra terv
     1. Komponensdiagram
         
         ![Komponensdiagram](images/component.PNG)
@@ -64,26 +64,31 @@ Egy folyamat pontos menete:
         
         ![Oldaltérkép](images/sitemap.PNG)
         
-2. Felhasználóifelület-modell
+### 2. Felhasználóifelület-modell
+
     1. Oldalvázlatok
-3. Osztálymodell
+    
+### 3. Osztálymodell
+
     1. Adatmodell
     2. Adatbázisterv
     3. Állapotdiagram
-4. Dinamikus működés
+    
+### 4. Dinamikus működés
+
     1. Szekvenciadiagram
 
-### Implementáció
+# Implementáció
 
-1. Fejlesztői környezet bemutatása
-2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
+### 1. Fejlesztői környezet bemutatása
+### 2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
 
-### Tesztelés
+# Tesztelés
 
 Tesztesetek felsorolása: milyen eseteket próbált végig a hallgató.
 
-### Felhasználói dokumentáció
+# Felhasználói dokumentáció
 
-1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
-2. Telepítés lépései: hogyan kerül a Githubról a célgépre a program
-3. A program használata
+### 1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
+### 2. Telepítés lépései: hogyan kerül a Githubról a célgépre a program
+### 3. A program használata
