@@ -59,11 +59,11 @@ Egy folyamat pontos menete:
 #### 1. Architektúra terv
 
 1. Komponensdiagram
-        
+
 ![Komponensdiagram](images/component.PNG)
-        
+
 2. Oldaltérkép
-        
+
 ![Oldaltérkép](images/sitemap.PNG)
 
 #### 2. Osztálymodell
@@ -79,22 +79,22 @@ Egy folyamat pontos menete:
 3. Állapotdiagram
 
 ![Állapotdiagram](images/activity.PNG)
-    
+
 #### 3. Dinamikus működés
 
 1. Szekvenciadiagram
 
-# Implementáció
+### Implementáció
 
 #### 1. Fejlesztői környezet bemutatása
 
 #### 2. Könyvtárstruktúrában lévő mappák funkiójának bemutatása
 
-## Tesztelés
+### Tesztelés
 
 Tesztesetek felsorolása: milyen eseteket próbált végig a hallgató.
 
-## Felhasználói dokumentáció
+### Felhasználói dokumentáció
 
 #### 1. A futtatáshoz ajánlott hardver-, szoftver konfiguráció
 
