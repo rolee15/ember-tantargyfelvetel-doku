@@ -74,6 +74,8 @@ Egy folyamat pontos menete:
 
 2. Adatbázisterv
 
+![Adatbázisterv](images/database.PNG)
+
 3. Állapotdiagram
 
 ![Állapotdiagram](images/activity.PNG)
