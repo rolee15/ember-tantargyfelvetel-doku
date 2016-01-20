@@ -65,20 +65,20 @@ Egy folyamat pontos menete:
 2. Oldaltérkép
         
 ![Oldaltérkép](images/sitemap.PNG)
-        
-#### 2. Felhasználóifelület-modell
 
-1. Oldalvázlatok
-    
-#### 3. Osztálymodell
+#### 2. Osztálymodell
 
 1. Adatmodell
+
+![Osztálydiagram](images/class.PNG)
 
 2. Adatbázisterv
 
 3. Állapotdiagram
+
+![Állapotdiagram](images/activity.PNG)
     
-#### 4. Dinamikus működés
+#### 3. Dinamikus működés
 
 1. Szekvenciadiagram
 
