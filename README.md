@@ -23,7 +23,7 @@ Egy diák felvehet egy meghirdetett tárgyat.
 * Tantárgyak leadása:
 Egy diák leadhat egy általa felvett tárgyat.
 * Felvett tárgyak listázása:
-Egy diák lekérdezheti az általa felvett tárgyakat
+Egy diák lekérdezheti az általa felvett tárgyakat.
 
 #### 2. Nem funkcionális követelmények
 
